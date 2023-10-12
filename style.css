@@ -1,0 +1,87 @@
+#idtitle{
+    color :blue;
+    font-family:roboto;
+    text-align: center;
+    font-variant: small-caps;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  
+}
+.decor{
+    color: red;
+    font-family: roboto;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 200px;
+    margin-left: 40px;
+    
+}
+.paragraphe{
+    font-family: roboto;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 30px;
+    margin: 0 0 0 auto;
+    padding: 0 auto 0 auto;
+
+}
+.spantitle{
+text-decoration: underline;
+font-weight: bold;
+color: peru;
+}
+nav ul{
+    list-style: none;
+    padding: 15px;
+    margin: 15px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 100px;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px 10px;
+    font-family: roboto;
+    font-style: italic;
+    color:darkblue;
+    font-size: x-large;
+}
+ nav a:hover{
+    color:purple;
+}
+th , td{
+    border: 1px solid brown;
+    margin: 0 auto;
+    font-family: roboto;
+    text-align: center;
+    padding: 15px;
+}
+.tableaustyle{
+    background-color: bisque;
+    font-family: roboto;
+    text-align: center;
+    text-decoration: underline;
+}
+img.float-left{
+    float: left;
+    margin-right: 10px;
+}
+
+.squarebullets{
+    font-family: roboto;
+    color: black;
+    line-height: 30px;
+    font-style: italic;
+    font-variant: small-caps;
+
+}
+button:active {
+    background: green;
+}
+.footer{
+    font-family: roboto;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: bold;
+}
